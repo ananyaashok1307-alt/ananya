@@ -1,0 +1,6 @@
+{
+  "name": "Solaria Haven - Luxury Boutique Resort & Reservation System",
+  "description": "An editorial luxury boutique resort reservation system and front-desk operations portal with suite discovery, booking customization, and real-time room management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
